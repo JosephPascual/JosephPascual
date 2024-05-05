@@ -11,5 +11,5 @@
 - 💬 Ask me about how I automated my data reports for a health care company 
 - 📫 How to reach me: DM me
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I like to play ukulele and sing, but I'm not very good a singing--yet.
+- ⚡ Fun fact: I like to play ukulele and sing, but I'm not very good at singing--yet.
 
