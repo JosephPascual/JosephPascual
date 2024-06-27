@@ -5,7 +5,7 @@
 -->
 
 - 🔭 I’m currently working on deepening my understanding of programming and computer science
-- 🌱 I’m currently learning Python, R, Tableau, and SQL
+- 🌱 Python, SQL, and Tableau
 - 👯 I’m looking to collaborate on data analytic projects
 - 🤔 I’m looking for help with finding a mentor in the data analytics/engineering space
 - 💬 Ask me about how I automated my data reports for a health care company 
