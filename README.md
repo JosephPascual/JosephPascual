@@ -4,4 +4,3 @@
 
 - 🔭 Learning to teach, teaching to learn
 - 📫 How to reach me: DM me on GitHub or LinkedIn: https://www.linkedin.com/in/josephpascual/
-- 🛹 Fun fact: I can kickflip
